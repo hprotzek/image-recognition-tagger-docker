@@ -1,0 +1,3 @@
+boto3==1.4.4
+git+http://github.com/EdLeafe/pyexif.git#egg=pyexif
+git+http://github.com/hprotzek/image-recognition-tagger#egg=image-recognition-tagger
